@@ -3,6 +3,7 @@ node_modules
 /build
 /public/build
 .env
+.ignore
 
 /cypress/screenshots
 /cypress/videos
